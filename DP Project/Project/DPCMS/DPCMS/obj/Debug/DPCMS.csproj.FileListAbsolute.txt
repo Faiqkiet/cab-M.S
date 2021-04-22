@@ -1,0 +1,55 @@
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\bin\Debug\DPCMS.exe.config
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\bin\Debug\DPCMS.exe
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\bin\Debug\DPCMS.pdb
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.csprojResolveAssemblyReference.cache
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.Form1.resources
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.Properties.Resources.resources
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.csproj.GenerateResource.Cache
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.exe
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.pdb
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.Cabi.resources
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.Staff.resources
+c:\users\agtxred\documents\visual studio 2013\Projects\DPCMS\DPCMS\obj\Debug\DPCMS.User.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe.config
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.exe
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.pdb
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.pdb
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csprojResolveAssemblyReference.cache
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Cabi.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Form1.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Properties.Resources.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Staff.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.User.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csproj.GenerateResource.Cache
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Manager.resources
+D:\Hanif\PAF-KIET\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Subordinate.resources
+E:\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe.config
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.exe
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.pdb
+E:\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe
+E:\DP\Project\DPCMS\DPCMS\bin\Debug\DPCMS.pdb
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csprojResolveAssemblyReference.cache
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Cabi.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Form1.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Manager.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Properties.Resources.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Staff.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Subordinate.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.User.resources
+E:\DP\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe.config
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\bin\Debug\DPCMS.exe
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\bin\Debug\DPCMS.pdb
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Cabi.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Form1.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Manager.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Properties.Resources.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Staff.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.Subordinate.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.User.resources
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.exe
+C:\Users\pc\Downloads\DP Project\Project\DPCMS\DPCMS\obj\Debug\DPCMS.pdb
